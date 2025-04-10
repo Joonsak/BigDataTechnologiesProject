@@ -23,8 +23,9 @@ review.json
 user.json
 https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/data?select=yelp_academic_dataset_review.json
 
+
 Yelp big data pipeline:
-data/
+data/ (if this directory doesn't exist, create it and add required JSON files)
 README.md
 projekti.ipynb
 
@@ -41,7 +42,7 @@ top10 business categories
 number of businesses per state
 
 Santeri
-
+Spark session
 Joining the review.json and business.json
 most reviewed businesses
 top rated restaurants
